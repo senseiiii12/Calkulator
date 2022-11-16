@@ -8,6 +8,7 @@ public class Calculator {
         else if (b == "-") {
             System.out.println("Разность" + (a-c));
         }
+        
     }
 
 }
