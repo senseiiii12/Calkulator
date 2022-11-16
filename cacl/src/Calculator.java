@@ -14,6 +14,7 @@ public class Calculator {
         else if(b.equals("/")){
             System.out.println("Деление =" + (a/c));
         }
+        
     }
 
 }
