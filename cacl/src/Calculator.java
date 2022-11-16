@@ -9,10 +9,10 @@ public class Calculator {
             System.out.println("Разность =" + (a-c));
         }
         else if (b.equals("*")){
-            System.out.println("Умножение =" + (a*c));
+            System.out.println("Умножение" + (a*c));
         }
         else if(b.equals("/")){
-            System.out.println("Деление =" + (a/c));
+            System.out.println("Деление" + (a/c));
         }
         
     }
