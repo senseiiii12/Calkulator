@@ -8,8 +8,6 @@ public class Main {
         calculator.Calc(10,"*",2);
         calculator.Calc(8,"/",2);
 
-        
-        System.out.println(235);
-
+        System.out.println("Privet");
     }
 }
