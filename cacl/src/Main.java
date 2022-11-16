@@ -15,6 +15,10 @@ public class Main {
         System.out.println(235);
         System.out.println(235);
         System.out.println(235);
+        System.out.println(111111111);
+        System.out.println(111111111);
+        System.out.println(111111111);
+        System.out.println(111111111);
 
     }
 }
